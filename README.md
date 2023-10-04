@@ -1,4 +1,4 @@
-flood monitoring and early detection
+flood monitoring system
 Project Definition:
 Creating a flood monitoring and early warning system with an ESP32 and Wokwi . Here is
 a sample code Below is a step-by-step guide on how to implement this project.
